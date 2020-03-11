@@ -1,0 +1,1 @@
+select count(student.StudentID) from Student group by Country;
